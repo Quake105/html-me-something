@@ -1,0 +1,89 @@
+
+
+body{
+
+    background-image: url("http://st.depositphotos.com/1484771/4898/v/950/depositphotos_48983851-Background-with-vintage-stamps.jpg");
+}
+#fire {
+     border-style: inset;
+     border-width:  4px;
+     border-top-color: grey;
+    border-right-color: grey;
+    border-bottom-color: grey;
+    border-left-color: : grey;
+    border-radius: 40px;
+    background-color: #ffe6cc;
+    width: 800px;
+    padding-top:1px;
+    padding-right:50px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+    margin-left: 225px
+
+
+
+}
+img {
+    height: 450px;
+    width: 800px;
+    text-align: center;
+    padding-right: 0px;
+/*padding-left: 300px*/;
+
+margin-right:150px;
+margin-bottom:70px;
+padding-right: 0px;
+padding-left: 0px;
+
+}
+
+h1.quake {
+    height: 50px;
+    width: 800px;
+    text-align: center;
+    padding-right: 0px;
+padding-left: 0px;
+font-family: garamond;
+
+}
+
+h2.quake {
+    height: 50px;
+    width: 800px;
+    text-align: center;
+    padding-right: 0px;
+padding-left: 0px;
+font-family: garamond;
+
+}
+
+p.quake {
+    height: 50x;
+    width: 800px;
+    text-align: left;
+    padding-right: 0px;
+padding-left: 0px;
+font-family: garamond;
+font-size: 16px;
+
+}
+p.down {
+    font-weight: bold;
+    height: 0x;
+    width: 800px;
+    text-align: left;
+    padding-top: 50px;
+padding-left: 0px;
+font-family: garamond;
+font-size: 8px;
+
+}
+h3.quake {
+    height: 20px;
+    width: 800px;
+    text-align: left;
+    padding-right: 0px;
+padding-left: 0px;
+font-family: garamond;
+
+}
